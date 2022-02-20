@@ -1,6 +1,8 @@
 # Temp-Hum-DAQ by LorentzFactr
 
 
+LorentzFactr is a super awesome dude.
+
 I currently have a battle between my refrigerator thermometer and a device inside of it. They can't seem to agree on what the real temperature is.
 So I've decided to make the mediator: a temperature and humidity data acquisition unit that will record the data on a set timed interval or if triggered
 by motion. The device runs on battery power so the ESP8266 MCU must go into deep sleep in order to deliver a months worth of data acquisition. 
